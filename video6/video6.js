@@ -7,3 +7,4 @@ let d = '5'
 let e = +d; //convert string sang number
 console.log('e value:', e, 'type:', typeof e)
 console.log(a===e,'a:', typeof a, 'd:', typeof e) //trước khi so sánh phải convert về số rồi mới so sánh
+// typeof: kiểm tra kiểu dữ liệu của biến
