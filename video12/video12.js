@@ -15,9 +15,9 @@ do{
     j++;
 }while(j<arrTop4.length)
 
+
 let k = 0;
 let flag = false;
-
 while(!flag){
     console.log('check value i: ', k)
     k++;
