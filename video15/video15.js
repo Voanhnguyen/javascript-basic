@@ -7,10 +7,5 @@ console.log('Hello world from HTML')
 // let x = 5;
 
 for (let i = 0; i < 10 ; i++){
-    let a = 10;
-    if{a < 10}{
-        let b = 5;
-        console.log(a)
-    }
     console.log('>>>> check value i : ', i)
 }
