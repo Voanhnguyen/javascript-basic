@@ -9,6 +9,7 @@ console.log(' check sum: 9 + 6 = ', sum(6,9))
 let obj = {
     name: 'Eric',
     address: 'Ha Noi',
+    // method => Nằm bên trong class hoặc object
     getName: function(){
         return this.name
     }
