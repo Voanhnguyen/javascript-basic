@@ -9,4 +9,4 @@ let sum = (a,b) => {
     return a + b;
 }
 
-console.log(' check sum: ', sum(6,9))
+console.log(' check sum: ', sum(6,9 ))
